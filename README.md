@@ -8,7 +8,9 @@ I build robots 🤖 [***@LigerBots***](https://github.com/ligerbots) & [***@CRB*
 
 I love to tinker 🛠️ with stuff
 
-I program using Python 🐍, Rust 🦀, and Swift 🕊️.
+I program using Python 🐍, Rust 🦀, and Swift 🕊️
+
+I'm interested in robots 🦾, electronics ⚡, computer science 🖥️, and quantum computing ⚛️
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=bykevinyang&show_icons=true&theme=tokyonight)
 
