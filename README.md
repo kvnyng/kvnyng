@@ -4,7 +4,7 @@
 
 I'm in Beantown ☘️
 
-I build robots [***@LigerBots***](https://github.com/ligerbots) & [***@CRB***](https://github.com/combatroboticsberkeley)
+I build robots 🤖 [***@LigerBots***](https://github.com/ligerbots) & [***@CRB***](https://github.com/combatroboticsberkeley)
 
 I love to tinker 🛠️ with stuff
 
