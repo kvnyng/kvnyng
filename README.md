@@ -8,6 +8,8 @@ I build robots 🤖 [***@LigerBots***](https://github.com/ligerbots) & [***@CRB*
 
 I love to tinker 🛠️ with stuff
 
+I program using Python 🐍, Rust 🦀, and Swift 🕊️.
+
 ![Stats](https://github-readme-stats.vercel.app/api?username=bykevinyang&show_icons=true&theme=tokyonight)
 
 <!--
