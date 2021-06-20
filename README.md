@@ -1,6 +1,6 @@
 # I put the EE in [*Reese's Puffs*](https://youtu.be/yvlLgYOcWxE)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=bykevinyang&show_icons=true&theme=merko)
+![Stats](https://github-readme-stats.vercel.app/api?username=bykevinyang&show_icons=true&theme=tokyonight)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
