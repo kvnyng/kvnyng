@@ -1,6 +1,6 @@
 # I put the EE in [*Reese's Puffs*](https://youtu.be/yvlLgYOcWxE)
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=bykevinyang)()]
+![Stats](https://github-readme-stats.vercel.app/api?username=bykevinyang)
 
 <!--
 **bykevinyang/bykevinyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
