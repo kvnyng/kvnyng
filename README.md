@@ -2,15 +2,15 @@
 
 ## I put the EE in [*Reese's Puffs*](https://youtu.be/yvlLgYOcWxE)
 
-I'm in Beantown ☘️
+#### I'm in Beantown ☘️
 
-I build robots 🤖 [***@LigerBots***](https://github.com/ligerbots) & [***@CRB***](https://github.com/combatroboticsberkeley)
+#### I build robots 🤖 [***@LigerBots***](https://github.com/ligerbots) & [***@CRB***](https://github.com/combatroboticsberkeley)
 
-I love to tinker 🛠️ with stuff
+#### I love to tinker 🛠️ with stuff
 
-I program using Python 🐍, Rust 🦀, and Swift 🕊️
+#### I program using Python 🐍, Rust 🦀, and Swift 🕊️
 
-I'm interested in robots 🦾, electronics ⚡, computer science 🖥️, and quantum computing ⚛️
+#### I'm interested in robots 🦾, electronics ⚡, computer science 🖥️, and quantum computing ⚛️
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=bykevinyang&show_icons=true&theme=tokyonight)
 
