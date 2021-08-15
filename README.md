@@ -17,8 +17,7 @@
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=bykevinyang&theme=tokyonight)
  -->
  
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
- test
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer">
   <img src="https://github-readme-stats.vercel.app/api?username=bykevinyang&show_icons=true&theme=tokyonight" width="66%" style="display: inline-block" >
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bykevinyang&theme=tokyonight" width="66%" style="display: inline-block"> 
 </a>
