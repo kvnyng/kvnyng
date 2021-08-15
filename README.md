@@ -13,7 +13,7 @@
 #### I'm interested in robots 🦾, electronics ⚡, computer science 🖥️, and quantum computing ⚛️
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=bykevinyang&show_icons=true&theme=tokyonight)
- <a href="https://github.com/bykevinyang/"><img src="https://github-readme-stats.vercel.app/api?username=bykevinyang&show_icons=true&theme=tokyonight" width="100%" align="right"><img src="https://github-readme-streak-stats.herokuapp.com/?user=bykevinyang&theme=tokyonight" width="100%" align="right"></a>
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=bykevinyang&theme=tokyonight)
 <!--
 **bykevinyang/bykevinyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
