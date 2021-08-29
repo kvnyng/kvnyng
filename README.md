@@ -8,7 +8,7 @@
 
 #### I love to tinker 🛠️ with stuff
 
-#### I program using Python 🐍, Rust 🦀, and Swift 🕊️
+#### I program using Swift 🕊️, Rust 🦀, and Python 🐍
 
 #### I'm interested in robots 🦾, electronics ⚡, computer science 🖥️, and quantum computing ⚛️
 
