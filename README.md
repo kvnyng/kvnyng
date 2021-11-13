@@ -1,6 +1,6 @@
 <h1>Hey there, I'm <a href="http://bykevinyang.com/">Kevin</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 
-## I put the EE in [*Reese's Puffs*](https://youtu.be/yvlLgYOcWxE)
+## I put the KY in EleKtrifY
 
 #### I'm in Beantown ☘️
 
