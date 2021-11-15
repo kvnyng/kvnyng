@@ -18,7 +18,7 @@
  -->
  
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
-  <img src="https://github-readme-stats.vercel.app/api?username=bykevinyang&show_icons=true&theme=tokyonight" width="66%" style="display: inline-block" >
+  <img src="https://github-readme-stats.vercel.app/api?username=bykevinyang&show_icons=true&theme=vision-friendly-dark" width="66%" style="display: inline-block" >
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bykevinyang&theme=vision-friendly-dark" width="66%" style="display: inline-block"> 
 </a>
 
