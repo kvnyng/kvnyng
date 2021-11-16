@@ -18,8 +18,8 @@
  -->
  
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
-  <img src="https://github-readme-stats.vercel.app/api?username=bykevinyang&show_icons=true&theme=city_lights" width="66%" style="display: inline-block" >
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bykevinyang&theme=highcontrast" width="66%" style="display: inline-block"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=bykevinyang&show_icons=true&theme=dark" width="66%" style="display: inline-block" >
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bykevinyang&theme=dark" width="66%" style="display: inline-block"> 
 </a>
 
 <!--
