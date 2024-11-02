@@ -1,20 +1,25 @@
 <!-- <h1>Hey there, I'm <a href="https://keviny.tech" target="_blank">Kevin</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1> -->
 
-# Hey there, I'm [Kevin](https://keviny.tech)👋!
+# Hey! I'm [Kevin]()👋!
 
-#### I'm in Beantown ☘️
+#### I'm in Beantown
 
-#### I'm running hackathons like [Beantown Bash](https://beantownbash.org/)
+### I'm studying Mech. E. and Phil @ Harvard
 
-#### I build robots 🤖 [***@LigerBots***](https://github.com/ligerbots)
+### I've built chariots, flamethrowers, and apps
 
-#### I love to tinker 🛠️ with stuff
+### I'm a Venture Partner @ Contrary
+<!-- #### I'm running hackathons like [Beantown Bash](https://beantownbash.org/) -->
+
+<!-- #### I build robots 🤖 [***@LigerBots***](https://github.com/ligerbots) -->
+
+<!-- #### I love to tinker 🛠️ with stuff
 
 #### I program using Python 🐍, Swift 🕊️, and Rust 🦀.
 
 #### I'm interested in robots 🦾, electronics ⚡, computer science 🖥️, and quantum computing ⚛️
 
-#### Check out [abSENT](https://github.com/absent-cc), an app I made that notifes students when their teachers are absent!
+#### Check out [abSENT](https://github.com/absent-cc), an app I made that notifes students when their teachers are absent! -->
 
 <!-- [![abSENT Github Banner](https://github.com/absent-cc/branding/blob/main/assets/banner.svg)](https://github.com/absent-cc/absent) -->
 
