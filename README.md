@@ -2,13 +2,13 @@
 
 # Hey! I'm [Kevin]()👋!
 
-#### I'm in Beantown
+#### I'm based in Beantown
 
-### I'm studying Mech. E. and Phil @ Harvard
+#### I'm studying Mech. E. and Phil @ Harvard
 
-### I've built chariots, flamethrowers, and apps
+#### I've built chariots, flamethrowers, and apps
 
-### I'm a Venture Partner @ Contrary
+#### I'm a Venture Partner @ Contrary
 <!-- #### I'm running hackathons like [Beantown Bash](https://beantownbash.org/) -->
 
 <!-- #### I build robots 🤖 [***@LigerBots***](https://github.com/ligerbots) -->
