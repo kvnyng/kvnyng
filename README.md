@@ -9,6 +9,10 @@
 #### I've built [chariots](https://www.youtube.com/watch?v=HB-dtnXu_a8), [flamethrowers](https://www.youtube.com/watch?v=oOEWn-E6v-w), and [mobile apps](https://github.com/absent-cc)
 
 #### I'm a Venture Partner @ Contrary
+
+#### I'm obsessed with micro-mobility, sleep, and audio systems
+
+
 <!-- #### I'm running hackathons like [Beantown Bash](https://beantownbash.org/) -->
 
 <!-- #### I build robots 🤖 [***@LigerBots***](https://github.com/ligerbots) -->
