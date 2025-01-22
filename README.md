@@ -2,7 +2,7 @@
 
 # Hey! I'm [Kevin]()!
 
-#### I'm based in Beantown
+#### I'm based in Boston.
 
 #### I'm studying Mech. E. and Phil @ Harvard
 
